@@ -40,4 +40,4 @@ You can find excellent resources and tutorials on the official Arduino website:
 Once you have the Arduino IDE set up, you can clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/YourUsername/arduino-practice-projects.git](https://github.com/YourUsername/arduino-practice-projects.git)
+git clone [https://github.com/VNthcong520712/Arduino_practice.git](https://github.com/VNthcong520712/Arduino_practice.git)
